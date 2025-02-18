@@ -1,5 +1,0 @@
----
-"tools": minor
----
-
-Remove logs

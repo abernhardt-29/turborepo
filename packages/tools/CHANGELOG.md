@@ -1,5 +1,11 @@
 # tools
 
+## 0.3.0
+
+### Minor Changes
+
+- c2b4eb7: Remove logs
+
 ## 0.2.0
 
 ### Minor Changes
