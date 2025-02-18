@@ -1,7 +1,7 @@
 import React, { useCallback } from 'react'
 
-export const useCounter = () => {
-  const [count, setCount] = React.useState(0)
+export const useCounter = (initialValue: number) => {
+  const [count, setCount] = React.useState(initialValue)
 
   const increment = useCallback(() => {
     setCount((prevCount) => prevCount + 1)
