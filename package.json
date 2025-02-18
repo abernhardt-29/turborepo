@@ -1,0 +1,21 @@
+{
+  "name": "turborepo-example",
+  "private": true,
+  "version": "1.0.1",
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "lint": "turbo run lint --"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "prettier": "^3.2.5",
+    "turbo": "latest",
+    "@changesets/cli": "^2.28.0"
+  },
+  "packageManager": "yarn@1.22.21",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}

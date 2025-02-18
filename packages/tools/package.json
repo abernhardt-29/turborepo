@@ -1,0 +1,10 @@
+{
+  "name": "tools",
+  "version": "0.0.0",
+  "dependencies": {},
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage --testResultsProcessor=jest-sonar-reporter"
+  }
+}
