@@ -1,5 +1,11 @@
 # tools
 
+## 0.4.0
+
+### Minor Changes
+
+- a5352af: Some imrpovements
+
 ## 0.3.0
 
 ### Minor Changes
