@@ -4,7 +4,7 @@
 
 ### Minor Changes
 
-- a5352af: Implement MainPage component
+- a5352af: Implement MainPage component 
 - a9fa492: Add second app and other improvements
 
 ### Patch Changes
